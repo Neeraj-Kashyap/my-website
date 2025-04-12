@@ -1,0 +1,3 @@
+[submodule "libs/awesome-animations"]
+	path = libs/awesome-animations
+	url = https://github.com/Neeraj-Kashyap/awesome-animations.git
